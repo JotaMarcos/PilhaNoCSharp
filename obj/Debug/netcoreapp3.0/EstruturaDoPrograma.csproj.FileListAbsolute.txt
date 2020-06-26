@@ -1,0 +1,13 @@
+C:\dotnet\csharp-examples\01-EstruturaDoPrograma\bin\Debug\netcoreapp3.0\EstruturaDoPrograma.exe
+C:\dotnet\csharp-examples\01-EstruturaDoPrograma\bin\Debug\netcoreapp3.0\EstruturaDoPrograma.deps.json
+C:\dotnet\csharp-examples\01-EstruturaDoPrograma\bin\Debug\netcoreapp3.0\EstruturaDoPrograma.runtimeconfig.json
+C:\dotnet\csharp-examples\01-EstruturaDoPrograma\bin\Debug\netcoreapp3.0\EstruturaDoPrograma.runtimeconfig.dev.json
+C:\dotnet\csharp-examples\01-EstruturaDoPrograma\bin\Debug\netcoreapp3.0\EstruturaDoPrograma.dll
+C:\dotnet\csharp-examples\01-EstruturaDoPrograma\bin\Debug\netcoreapp3.0\EstruturaDoPrograma.pdb
+C:\dotnet\csharp-examples\01-EstruturaDoPrograma\obj\Debug\netcoreapp3.0\EstruturaDoPrograma.csprojAssemblyReference.cache
+C:\dotnet\csharp-examples\01-EstruturaDoPrograma\obj\Debug\netcoreapp3.0\EstruturaDoPrograma.AssemblyInfoInputs.cache
+C:\dotnet\csharp-examples\01-EstruturaDoPrograma\obj\Debug\netcoreapp3.0\EstruturaDoPrograma.AssemblyInfo.cs
+C:\dotnet\csharp-examples\01-EstruturaDoPrograma\obj\Debug\netcoreapp3.0\EstruturaDoPrograma.csproj.CoreCompileInputs.cache
+C:\dotnet\csharp-examples\01-EstruturaDoPrograma\obj\Debug\netcoreapp3.0\EstruturaDoPrograma.dll
+C:\dotnet\csharp-examples\01-EstruturaDoPrograma\obj\Debug\netcoreapp3.0\EstruturaDoPrograma.pdb
+C:\dotnet\csharp-examples\01-EstruturaDoPrograma\obj\Debug\netcoreapp3.0\EstruturaDoPrograma.genruntimeconfig.cache
